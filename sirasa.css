@@ -1,4 +1,4 @@
-.siyatha-container {
+.sirasa-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -10,19 +10,19 @@
   justify-content: center;
   background-color: #000000;
 }
-.siyatha-navlink {
+.sirasa-navlink {
   top: 11px;
   left: 13px;
   position: absolute;
   text-decoration: none;
 }
-.siyatha-div {
+.sirasa-div {
   width: 1200px;
   height: 375px;
   align-self: center;
   margin-right: Infinitypx;
 }
-.siyatha-container1 {
+.sirasa-container1 {
   flex: 0 0 auto;
   width: 200px;
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -31,7 +31,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.siyatha-image {
+.sirasa-image {
   top: 0px;
   left: 348px;
   width: 566px;

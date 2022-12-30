@@ -10,36 +10,19 @@
   justify-content: center;
   background-color: #000000;
 }
-.hiru-code-embed {
-  top: 516px;
-  left: 484px;
-  width: 573px;
-  height: 370px;
-  position: absolute;
-}
-.hiru-image {
-  top: -455px;
-  left: 204px;
-  width: 871px;
-  height: 463px;
-  position: absolute;
-  object-fit: cover;
-}
 .hiru-navlink {
   top: 11px;
   left: 13px;
   position: absolute;
   text-decoration: none;
 }
-.hiru-container1 {
-  flex: 0 0 auto;
-  width: 200px;
-  height: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+.hiru-div {
+  width: 1200px;
+  height: 375px;
+  align-self: center;
+  margin-right: Infinitypx;
 }
-.hiru-container2 {
+.hiru-container1 {
   flex: 0 0 auto;
   width: 200px;
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -48,39 +31,12 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.hiru-image1 {
-  top: 76px;
-  left: 202px;
-  width: 706px;
-  height: 546px;
+.hiru-image {
+  top: 0px;
+  left: 348px;
+  width: 566px;
+  height: 347px;
   position: absolute;
+  align-self: flex-end;
   object-fit: cover;
-}
-.hiru-image2 {
-  top: 388px;
-  left: 438px;
-  width: 176px;
-  height: 125px;
-  position: absolute;
-  object-fit: cover;
-}
-.hiru-container3 {
-  flex: 0 0 auto;
-  width: 320px;
-  height: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.hiru-video {
-  width: 320px;
-  height: 180px;
-}
-.hiru-button {
-  top: 508px;
-  left: 631px;
-  width: 458px;
-  height: 175px;
-  position: absolute;
-  background-color: #000000;
 }
